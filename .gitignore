@@ -1,0 +1,24 @@
+# Go binary
+go-standLib
+
+# Go workspace
+bin/
+pkg/
+
+# IDE files
+.idea/
+.vscode/
+
+# Build output
+*.out
+*.exe
+*.dll
+*.so
+
+# Log files
+*.log
+
+# Temporary files
+tmp/
+temp/
+.DS_Store
