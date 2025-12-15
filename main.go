@@ -3,9 +3,9 @@ package main
 import (
 	"container/heap"
 	"fmt"
-	"go-standLib/algorithm"
-	"go-standLib/problem"
-	"go-standLib/utils"
+	"go-algorithms-collection/algorithm"
+	"go-algorithms-collection/problem"
+	"go-algorithms-collection/utils"
 )
 
 func main() {

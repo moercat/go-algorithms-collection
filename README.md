@@ -1,11 +1,11 @@
-# Go 算法、工具和刷题包
+# Go 算法集合 (Go Algorithms Collection)
 
 这是一个全面的 Go 语言库，包含了常见的数据结构、算法、实用工具和刷题解决方案。
 
 ## 目录结构
 
 ```
-go-standLib/
+go-algorithms-collection/
 ├── algorithm/     # 算法实现
 │   ├── heap.go      # 堆数据结构及堆排序
 │   ├── ring.go      # 环形缓冲区和一致性哈希环
